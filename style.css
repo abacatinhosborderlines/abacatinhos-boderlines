@@ -12,3 +12,6 @@ header{
 .img-secao{
     width: 25%;
 }
+.intro{
+    display: flex;
+}
