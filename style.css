@@ -2,16 +2,14 @@ body{
     background-color: aquamarine;
 
 }
-img{   
+.imgca{   
     width: 20%;
 }
 header{ 
     display: flex;
     justify-content: space-around;
     align-items: center;}
-.img-secao{
-    width: 25%;
-}
+
 .intro{
     display: flex;
 }
