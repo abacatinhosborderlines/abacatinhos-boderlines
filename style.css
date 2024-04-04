@@ -12,6 +12,10 @@ header{
 
 .intro{
     display: flex;
+    margin: 30px;
+    background-color: bisque;
+    padding: 30px;
+    border: 30px; #ffa380;
 }
 
 .bob{ 
