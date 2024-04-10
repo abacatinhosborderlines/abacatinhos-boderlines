@@ -37,3 +37,7 @@ header {
 .Ju {
     width: 30%;
 }
+header a{
+    color: black;
+    text-decoration: none;
+}
