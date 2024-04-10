@@ -1,33 +1,39 @@
-body{
+body {
     background-color: goldenrod;
 
 }
-.imgca{   
+
+.imgca {
     width: 15%;
 }
-header{ 
+
+header {
     display: flex;
     justify-content: space-around;
-    align-items: center;}
+    align-items: center;
+}
 
-.intro{
+.intro {
     display: flex;
     margin: 30px;
     background-color: bisque;
     padding: 30px;
-    border:30px brown;
+    border: 30px brown;
 }
 
-.bob{ 
- width: 15%;
+.bob {
+    width: 15%;
 }
-.equipe{
+
+.equipe {
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
     background-color: aqua;
     border: chocolate;
-    width: 120%;}
-    .ju{ 
-        width: 30%;
-    }
+    width: 120%;
+}
+
+.ju {
+    width: 30%;
+}
