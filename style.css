@@ -29,8 +29,8 @@ header {
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
-    background-color: aqua;
-    border: chocolate;
+    background-color: darkgoldenrod;
+    border: rgb(228, 154, 215);
     width: 120%;
 }
 
