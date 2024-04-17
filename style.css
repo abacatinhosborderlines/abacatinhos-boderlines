@@ -40,7 +40,7 @@ header {
     display: grid;
     grid-template-columns: 33% 33% 33%;
     text-align: center;
-    background-color: rgb(219, 162, 19);
+    background-color: rgb(218, 179, 80);
     border: 3px solid black;
     width: 100%;
 }
