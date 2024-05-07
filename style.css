@@ -21,7 +21,7 @@ header {
     background-color: bisque;
     padding: 30px;
     border: 3px solid black;
-    font-size: 110%;
+    font-size: 120%;
 
 }
 
@@ -31,6 +31,7 @@ header {
     background-color: rgb(241, 226, 91);
     padding: 30px;
     border: 3px solid black;
+    font-size: 120%;
 }
 
 .bob {
